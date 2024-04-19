@@ -1,4 +1,3 @@
-.body 
-{
-    background: linear-gradient(to right, purple, red); 
+body {
+    background-image: linear-gradient(to right, purple, red); 
 }
